@@ -3,8 +3,8 @@
 $db_hostname = "localhost";
 $db_port     = 3306;
 $db_database = "simple_lamp";
-$db_username = "username";
-$db_password = "password";
+$db_username = "vikrant";
+$db_password = "verma";
 
 // Image upload options
 $storage_option = "hd";
